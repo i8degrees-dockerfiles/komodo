@@ -8,7 +8,12 @@ title: Komodo Docker Compose
 
 ## usage
 
-*...*
+```sh
+# MongoDB service
+wget -P komodo https://raw.githubusercontent.com/moghtech/komodo/main/compose/mongo.compose.yaml;
+# MongoDB env
+wget -P komodo https://raw.githubusercontent.com/moghtech/komodo/main/compose/compose.env
+```
 
 ### deps
 
