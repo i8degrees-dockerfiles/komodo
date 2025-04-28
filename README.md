@@ -1,5 +1,8 @@
+---
+title: Komodo Docker Compose
+---
 
-# PROJECT_NAME
+# Komodo
 
 *...*
 
